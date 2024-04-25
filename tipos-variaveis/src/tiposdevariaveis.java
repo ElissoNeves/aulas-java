@@ -13,7 +13,7 @@ public class tiposdevariaveis {
         short numeroCurto = 1;
         int numeroNormal = numeroCurto;
         short numeroNormal2 = (short) numeroNormal;
-        System.out.println(numeroNorma2);
+        System.out.println(numeroNormal2);
 
         //Desta maneira o valor da variavel pode ser alterado
         int numero = 5;
