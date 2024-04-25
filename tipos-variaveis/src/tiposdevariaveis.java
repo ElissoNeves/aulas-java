@@ -12,7 +12,7 @@ public class tiposdevariaveis {
         //Mesmo sabendo que a variavel Short tem um valor curto, é necessário que haja a conversão
         short numeroCurto = 1;
         int numeroNormal = numeroCurto;
-        short numeroNorma2 = (short) numeroNormal;
+        short numeroNormal2 = (short) numeroNormal;
         System.out.println(numeroNorma2);
 
         //Desta maneira o valor da variavel pode ser alterado
